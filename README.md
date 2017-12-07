@@ -1,0 +1,2 @@
+# gotil
+go util func
